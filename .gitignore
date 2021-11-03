@@ -1,0 +1,32 @@
+# Directories 
+env
+
+dist
+build
+
+.vscode
+.VSCodeCounter 
+
+/*/__pycache__
+
+__pycache__
+
+cloud_credentials/gcp/*.json
+cloud_credentials/azure/*.json
+
+logs
+
+
+# Files
+*.yml
+
+logs.txt
+
+*.json
+
+main.spec
+
+log_*.log
+
+workspace.code-workspace
+
